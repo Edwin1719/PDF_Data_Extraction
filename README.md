@@ -12,5 +12,6 @@
 - **Construction of the application and deployment on the Web:** Creation of web application with Streamlit with programmed extraction steps and deployment of results on the online platform.
 
 ## **Documentation**
+! https://programacionpython80889555.wordpress.com/2023/02/15/extrayendo-texto-de-archivo-pdf-con-pypdf2/
 ! https://www.youtube.com/watch?v=nkizg_lA2p4&t=432s
 ! https://www.youtube.com/watch?v=mVe0tmEMjkw&t=208s
